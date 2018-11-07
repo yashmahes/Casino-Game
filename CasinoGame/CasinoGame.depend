@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446667744 source:e:\codeblocks\helloworld\main.cpp
+	<iostream>
+
+1541566894 source:g:\codeblocks\helloworld\main.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
